@@ -11,7 +11,7 @@
 We introduce a Simple Self-Rewarding (💫**SSR**) Reinforcement Learning (RL) approach for machine translation (MT). Using SSR training, our models **SSR-Zero-7B** and **SSR-X-Zero-7B** show state-of-the-art performance among open-source models under 72B parameters in English-to-Chinese and Chinese-to-English translation tasks. This is based on evaluations using WMT23, WMT24, and Flores200 benchmarks using automatic evaluation metics XCOMET-XXL and COMETKIWI-XXL.
 
 <div align='center'>
-<img src="img/ssr-overview.png" width = "50%" />
+<img src="img/ssr-overview.png" width = "80%" />
 </div>
 
 💫SSR is a highly effective training approach that **doesn't need external supervision from human reference data or pre-trained reward models**. It relies solely on the training model's own judgment to improve itself. For more details, please [check our paper on arXiv](https://arxiv.org/abs/2505.16637).
