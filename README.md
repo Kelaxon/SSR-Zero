@@ -179,7 +179,7 @@ We report our results measured by [COMETKIWI-XXL](https://huggingface.co/Unbabel
     <tr>
       <td>Claude-3.5-Sonnet</td>
       <td>81.61</td><td>93.06</td><td>81.06</td><td>90.54</td><td>89.41</td><td>97.68</td><td><strong><u>88.89</u></strong></td><td></td>
-      <td><strong>80.15</strong></td><td>92.00</td><td>80.00</td><td>86.31</td><td>89.47</td><td>94.32</td><td><u>87.04</u></td>
+      <td>80.15</td><td>92.00</td><td>80.00</td><td>86.31</td><td>89.47</td><td>94.32</td><td><u>87.04</u></td>
     </tr>
     <tr>
       <td>GPT-4o</td>
